@@ -1,0 +1,23 @@
+<div class="pane-head" style="padding: 10px;">
+	<button type="button" class="close" data-ng-click="panels.close();">x</button>
+</div>
+
+<div class="pane-body" style="padding: 10px;">
+	<div style="padding: 10px;background-color: white;"><img ng-src="{{selectedPOI.EM01_PICTURE}}">{{selectedPOI.EM01_NAME}}</div>
+	<h4>{{selectedPOI.EM02_NAME}}</h4>
+	<small>{{selectedPOI.EM02_DESCRIPTION}}</small>
+	<p>Dal {{selectedPOI.EM02_START_TIME}} </p>
+	<p>Al {{selectedPOI.EM02_END_TIME}} </p>
+	< br/>
+	<p>{{selectedPOI.EM02_PLACE_LOCATION_STREET}} < br/>
+	{{selectedPOI.EM02_PLACE_LOCATION_CITY}}
+	</p>
+	<div>
+	<a ng-href="https://www.google.com/maps?q={{selectedPOI.EM02_PLACE_LOCATION_LATITUDE}},{{selectedPOI.EM02_PLACE_LOCATION_LONGITUDE}}" class="btn btn-primary btn-sm" role="button">Posizione</a>
+	<a ng-href="https://www.google.com/maps/dir/Current+Location/{{selectedPOI.EM02_PLACE_LOCATION_LATITUDE}},{{selectedPOI.EM02_PLACE_LOCATION_LONGITUDE}}" class="btn btn-primary btn-sm" role="button">Indicazioni</a>
+	</div>
+	<div>
+		<button type="button" class="close" data-ng-click="panels.close();">Chiudi</button>
+	</div>
+</div> 
+
