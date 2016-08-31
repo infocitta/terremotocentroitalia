@@ -1,4 +1,4 @@
-﻿
+
 [
   {
     "EM01_ID": "1552940974982231",
@@ -16,23 +16,6 @@
     "EM02_PLACE_LOCATION_LONGITUDE": "9.34624",
     "EM02_PLACE_LOCATION_ZIP": "20863",
     "EM02_PLACE_LOCATION_STREET": "via Don Minzoni 42"
-  },
-  {
-    "EM01_ID": "223469041008797",
-    "EM01_NAME": "Ristorante \"Il Fauno\" a Cesano Maderno",
-    "EM01_PICTURE": "https://scontent.xx.fbcdn.net/v/t1.0-1/c36.36.452.452/s50x50/264230_223469264342108_5244228_n.jpg?oh=332680396f2d7f0854d75471729e8dc8&oe=584ABC75",
-    "EM02_IDEVENT": "1728520827413046",
-    "EM02_NAME": "Il sapore della solidarietà: per i paesi colpi dal terremoto.",
-    "EM02_DESCRIPTION": "Il sapore della solidarietà\n\nAbbiamo deciso, dopo aver verificato che domenica scorsa l'iniziativa è stata molto apprezzata, che il nostro ristorante fino a fine settembre prevederà nel menù anche gli spaghetti all'amatriciana.\nE' una forma di vicinanza e di solidarietà concreta agli abitanti di Amatrice e dei paesi limitrofi colpiti dal terremoto di mercoledì 24 Agosto.\nConcreta perchè dei dieci euro di quel piatto cinque saranno inviati alla croce rossa italiana, a favore dei paesi terremotati.\nPrenotazioni con messaggio privato a questa pagina oppure alla mail info@ilfauno.it oppure ai nostri numeri 0362-540930 e 345-7620837.",
-    "EM02_START_TIME": "2016-08-31T13:00:00",
-    "EM02_END_TIME": "2016-09-13T22:00:00",
-    "EM02_PLACE_NAME": "Ristorante \"Il Fauno\" a Cesano Maderno",
-    "EM02_PLACE_LOCATION_CITY": "Cesano Maderno",
-    "EM02_PLACE_LOCATION_COUNTRY": "Italy",
-    "EM02_PLACE_LOCATION_LATITUDE": "45.629603466124",
-    "EM02_PLACE_LOCATION_LONGITUDE": "9.1475847331972",
-    "EM02_PLACE_LOCATION_ZIP": "20811",
-    "EM02_PLACE_LOCATION_STREET": "Via Borromeo 29"
   },
   {
     "EM01_ID": "62756084668",
@@ -159,7 +142,7 @@
     "EM01_PICTURE": "https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/13876237_1024721134262616_8230060934404839944_n.jpg?oh=e2e893d51d80b3b3c02d3068b80043f1&oe=584E75AB",
     "EM02_IDEVENT": "1050718728311349",
     "EM02_NAME": "Amatrice nel cuore e nel piatto <3",
-    "EM02_DESCRIPTION": "L'agriturismo il Castagneto aderisce alla campagna di solidarietà lanciata a favore delle popolazioni terremotate di Amatrice e dintorni,con questa iniziativa che ci trova prontissimi...l'Amatriciana,uno dei nostri  piatti simbolo,per raccogliere fondi,da sempre qi in carta ,viste le origini della cuoca...\nSerata Amatriciana e dintorni:\nBruschetta ajo&ojo e bruschetta ajo,ojo e pommodoretto\nAmatriciana della tradizione co' le fettuccine fresche \n Tonnarelli alla carbonara\nSaltimbocca e patate all'infernotto\nTorta di ricotta e uva fragola\nBiscottini& vino dolce\nPrezzo  25 euro bevande escluse.\nLa metà dell'incasso della serata verrà devoluta ,successivamente continueremo con due euro a piatto \nprenotazioni obbligatorie ai numeri 0185408136 e 3474702278\nLa campagna di raccolta continuerà per tutto il mese,con l'amatriciana sempre presente in carta",
+    "EM02_DESCRIPTION": "L'agriturismo il Castagneto aderisce alla campagna di solidarietà lanciata a favore delle popolazioni terremotate di Amatrice e dintorni,con questa iniziativa che ci trova prontissimi...l'Amatriciana,uno dei nostri  piatti simbolo,per raccogliere fondi,da sempre qi in carta ,viste le origini della cuoca...\nSerata Amatriciana e dintorni:\nBruschetta ajo&ojo e bruschetta ajo,ojo e pommodoretto\nAmatriciana della tradizione co' li spaghetti \n Tonnarelli alla carbonara\nSaltimbocca e patate all'infernotto\nTorta di ricotta e uva fragola\nSorbetto alla fragola e basilico\nPrezzo  25 euro bevande escluse.\nLa metà dell'incasso della serata verrà devoluta ,successivamente continueremo con due euro a piatto \nprenotazioni obbligatorie ai numeri 0185408136 e 3474702278\nLa campagna di raccolta continuerà per tutto il mese,con l'amatriciana sempre presente in carta",
     "EM02_START_TIME": "2016-09-01T20:30:00",
     "EM02_END_TIME": "2016-09-01T23:00:00",
     "EM02_PLACE_NAME": "Agriturismo Il Castagneto",
@@ -239,21 +222,21 @@
     "EM02_PLACE_LOCATION_STREET": "Via Delio Ricci"
   },
   {
-    "EM01_ID": "1429131040670440",
-    "EM01_NAME": "MGP Ticino - Giovani Padani",
-    "EM01_PICTURE": "https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/1014030_1549450818638461_9179174605593621281_n.jpg?oh=bf0c69232d535628ce2b41052e0c96f8&oe=584E1B97",
-    "EM02_IDEVENT": "657738181062423",
-    "EM02_NAME": "Beer-Pong Serata MGP",
-    "EM02_DESCRIPTION": "+ + + SERATA MGP + + +\nVi aspettiamo, Venerdì 02.09.2016, a Castano Primo (Via Mantegna) con la 2° edizione del #BeerPong, dove tutto il ricavato sarà donato in favore delle persone colpite dal terremoto.\n#GreenBeer #MgpTicino #Amatrice #Aiutiamoli",
+    "EM01_ID": "10210659250141598",
+    "EM01_NAME": "Marco Delle Monache",
+    "EM01_PICTURE": "https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/13521862_10210038517303665_990525984468700468_n.jpg?oh=d7fecfa9ccc5ed2135e8d39d6ce6514f&oe=583D77E7",
+    "EM02_IDEVENT": "1934979690062236",
+    "EM02_NAME": "Jazz, parole e vino per Amatrice",
+    "EM02_DESCRIPTION": "Portare la musica jazz dentro una chiesa può sembrare un connubio azzardato. \n\nTuttavia, la natura e il traguardo di questi due aspetti della vita umana, la musica e la fede, sono quelli di “elevare e rasserenare” lo spirito, di dare qualcosa di buono all'animo e di aiutarlo nella vita quotidiana. \n\nE bene si sposano questi aspetti con quello che intendiamo fare, la jazz band “My Favourite Swing” e la nostra comunità, per sostenere economicamente la ripresa di una vita serena nelle città distrutte dal sisma. Il “collante” tra la musica e lo spirito sarà dalla “parola recitata” dell'attrice teatrale Laura Antonini che con slancio ha accettato di partecipare all'evento. \n\nTutti i partecipanti, serve sottolinearlo, hanno offerto la propria arte in forma totalmente gratuita, come pure la nostra comunità offre di ospitare senza alcun compenso.\n\nProporremo ai nostri ospiti, offrendo un calice di vino e qualcosa d'altro per accompagnarlo, un “dono d'ingresso minimo” di dieci Euro; starà poi a ciascuno di dare secondo quello che avrà in cuore.\n\nI fondi raccolti saranno interamente devoluti, senza trattenere nulla, all'Alleanza Evangelica Italiana . Questa alleanza tra svariate denominazioni e chiese evangeliche presenti sul territorio nazionale, facendo tesoro della fruttuosa esperienza del coordinamento già formatosi in occasione del terremoto in Abruzzo del 2009, che oltre a un primo impegno nei soccorsi ha portato alla costruzione del centro socio culturale di Tossicia (TE), si occuperà di operare tra i terremotati soprattutto nella fase successiva all'emergenza, quando i riflettori dei media si saranno spenti e servirà continuare l'opera di supporto tra coloro che hanno perso tutto",
     "EM02_START_TIME": "2016-09-02T19:00:00",
-    "EM02_END_TIME": "2016-09-02T23:00:00",
-    "EM02_PLACE_NAME": "Tensostruttura Castano Primo",
-    "EM02_PLACE_LOCATION_CITY": "Castano Primo",
+    "EM02_END_TIME": "2016-09-02T22:00:00",
+    "EM02_PLACE_NAME": "Chiesa Cristiana Evangelica di Montefiascone - VT",
+    "EM02_PLACE_LOCATION_CITY": "Montefiascone",
     "EM02_PLACE_LOCATION_COUNTRY": "Italy",
-    "EM02_PLACE_LOCATION_LATITUDE": "45.551660937251",
-    "EM02_PLACE_LOCATION_LONGITUDE": "8.7654413809944",
-    "EM02_PLACE_LOCATION_ZIP": "20022",
-    "EM02_PLACE_LOCATION_STREET": null
+    "EM02_PLACE_LOCATION_LATITUDE": "42.542200297924",
+    "EM02_PLACE_LOCATION_LONGITUDE": "12.035549283028",
+    "EM02_PLACE_LOCATION_ZIP": "01027",
+    "EM02_PLACE_LOCATION_STREET": "Via Delio Ricci"
   },
   {
     "EM01_ID": "206321233102",
@@ -273,21 +256,21 @@
     "EM02_PLACE_LOCATION_STREET": "Via Delio Ricci"
   },
   {
-    "EM01_ID": "10210659250141598",
-    "EM01_NAME": "Marco Delle Monache",
-    "EM01_PICTURE": "https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/13521862_10210038517303665_990525984468700468_n.jpg?oh=d7fecfa9ccc5ed2135e8d39d6ce6514f&oe=583D77E7",
-    "EM02_IDEVENT": "1934979690062236",
-    "EM02_NAME": "Jazz, parole e vino per Amatrice",
-    "EM02_DESCRIPTION": "Portare la musica jazz dentro una chiesa può sembrare un connubio azzardato. \n\nTuttavia, la natura e il traguardo di questi due aspetti della vita umana, la musica e la fede, sono quelli di “elevare e rasserenare” lo spirito, di dare qualcosa di buono all'animo e di aiutarlo nella vita quotidiana. \n\nE bene si sposano questi aspetti con quello che intendiamo fare, la jazz band “My Favourite Swing” e la nostra comunità, per sostenere economicamente la ripresa di una vita serena nelle città distrutte dal sisma. Il “collante” tra la musica e lo spirito sarà dalla “parola recitata” dell'attrice teatrale Laura Antonini che con slancio ha accettato di partecipare all'evento. \n\nTutti i partecipanti, serve sottolinearlo, hanno offerto la propria arte in forma totalmente gratuita, come pure la nostra comunità offre di ospitare senza alcun compenso.\n\nProporremo ai nostri ospiti, offrendo un calice di vino e qualcosa d'altro per accompagnarlo, un “dono d'ingresso minimo” di dieci Euro; starà poi a ciascuno di dare secondo quello che avrà in cuore.\n\nI fondi raccolti saranno interamente devoluti, senza trattenere nulla, all'Alleanza Evangelica Italiana . Questa alleanza tra svariate denominazioni e chiese evangeliche presenti sul territorio nazionale, facendo tesoro della fruttuosa esperienza del coordinamento già formatosi in occasione del terremoto in Abruzzo del 2009, che oltre a un primo impegno nei soccorsi ha portato alla costruzione del centro socio culturale di Tossicia (TE), si occuperà di operare tra i terremotati soprattutto nella fase successiva all'emergenza, quando i riflettori dei media si saranno spenti e servirà continuare l'opera di supporto tra coloro che hanno perso tutto",
+    "EM01_ID": "1429131040670440",
+    "EM01_NAME": "MGP Ticino - Giovani Padani",
+    "EM01_PICTURE": "https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/1014030_1549450818638461_9179174605593621281_n.jpg?oh=bf0c69232d535628ce2b41052e0c96f8&oe=584E1B97",
+    "EM02_IDEVENT": "657738181062423",
+    "EM02_NAME": "Beer-Pong Serata MGP",
+    "EM02_DESCRIPTION": "+ + + SERATA MGP + + +\nVi aspettiamo, Venerdì 02.09.2016, a Castano Primo (Via Mantegna) con la 2° edizione del #BeerPong, dove tutto il ricavato sarà donato in favore delle persone colpite dal terremoto.\n#GreenBeer #MgpTicino #Amatrice #Aiutiamoli",
     "EM02_START_TIME": "2016-09-02T19:00:00",
-    "EM02_END_TIME": "2016-09-02T22:00:00",
-    "EM02_PLACE_NAME": "Chiesa Cristiana Evangelica di Montefiascone - VT",
-    "EM02_PLACE_LOCATION_CITY": "Montefiascone",
+    "EM02_END_TIME": "2016-09-02T23:00:00",
+    "EM02_PLACE_NAME": "Tensostruttura Castano Primo",
+    "EM02_PLACE_LOCATION_CITY": "Castano Primo",
     "EM02_PLACE_LOCATION_COUNTRY": "Italy",
-    "EM02_PLACE_LOCATION_LATITUDE": "42.542200297924",
-    "EM02_PLACE_LOCATION_LONGITUDE": "12.035549283028",
-    "EM02_PLACE_LOCATION_ZIP": "01027",
-    "EM02_PLACE_LOCATION_STREET": "Via Delio Ricci"
+    "EM02_PLACE_LOCATION_LATITUDE": "45.551660937251",
+    "EM02_PLACE_LOCATION_LONGITUDE": "8.7654413809944",
+    "EM02_PLACE_LOCATION_ZIP": "20022",
+    "EM02_PLACE_LOCATION_STREET": null
   },
   {
     "EM01_ID": "433133333537207",
@@ -307,21 +290,38 @@
     "EM02_PLACE_LOCATION_STREET": "Via umbro casentinese 69"
   },
   {
-    "EM01_ID": "579126515547201",
-    "EM01_NAME": "Usb Pisa",
-    "EM01_PICTURE": "https://scontent.xx.fbcdn.net/v/t1.0-1/c6.0.50.50/p50x50/10689983_579126642213855_6610189285572246020_n.jpg?oh=57dc9fd2dd23e0d4e8da495e981e69c2&oe=58544C44",
-    "EM02_IDEVENT": "1577890322507242",
-    "EM02_NAME": "Una amatriciana per i terremotati. Raccolta fondi USB Pisa in risposta all'appello di Rieti e Ascoli",
-    "EM02_DESCRIPTION": "LA FEDERAZIONE PISANA DELLA USB RISPONDE ALL’APPELLO DELLE LE FEDERAZIONI DI RIETI E ASCOLI, IMPEGNATE NEL REPERIRE ALLOGGI PER CHI E’ IN DIFFICOLTÀ.\n\nVENERDI 2 SETTEMBRE ALLE ORE 20 PRESSO IL CIRCOLO AGORA' DI PISA\nVIA BOVIO 48, PISA\n“UN PIATTO DI AMATRICIANA PER I TERREMOTATI DEL CENTRO ITALIA”\n\nSarà richiesto un contributo minimo di 8 euro, compreso un bicchiere di vino e acqua.\nÈ importante la prenotazione, per evitare uno spreco di risorse. \nTelefonare a: 050979390 – 050500442 – 3383614966 - \n\nTUTTI I FONDI RICAVATI DALLA SERATA SARANNO VERSATI SULL’IBAN DELLA\n USB CONFEDERAZIONE RIETI: IT42B0312714600000000001316\nIL versamento DELL’INCASSO SARA’ PUBBLICIZZATO NEI GIORNI SEGUENTI\n\nLe zone colpite dal terremoto di questi giorni sono da sempre riconosciute come ad alto rischio sismico. Meno risaputa è invece la storia delle tante battaglie sociali e sindacali che sono state condotte nella Comunità Montana del Velino e nelle zone dei Comuni di Amatrice, Poste, Borbona, Accumoli ecc. perché venissero assunti lavoratori proprio nella cura dell’ambiente e nella protezione e prevenzione di quegli abitati dalle conseguenze di nuovi e drammatici terremoti. La nostra organizzazione è stata protagonista di importanti battaglie per il sostegno e lo sviluppo di quelle comunità ed oggi possiamo dire, amaramente, che era già tutto maledettamente previsto. Ma al di là della rabbia per l’incuria ed il disinteresse della autorità per la salvaguardia del territorio, oggi ci sentiamo vicini alle tante vittime e alle loro famiglie anche ed ancor più perché con tanti e tante di loro abbiamo condiviso importanti battaglie sociali. Per questo chiamiamo a tutti i nostri iscritti e simpatizzanti, a tutte le persone di collaborare e solidarizzare, partecipando alle iniziative promosse in tutta Italia. Nei prossimi giorni, superata la fase più drammatica dei soccorsi, una delegazione dell’USB nazionale insieme alle federazioni di Rieti e di Ascoli si recherà nelle zone colpite per incontrarsi con i lavoratori e gli abitanti e valutare assieme le necessità abitative e le possibili ripercussioni occupazionali della tragedia e decidere assieme anche come utilizzare al meglio i fondi raccolti.\n\nUSB Unione Sindacale di Base - Federazione di Pisa  \nVia Baldo degli Ubaldi, 3 pisa@usb.it  www.usb.it\nTEL. 050979390 – CELL. 3461898646",
+    "EM01_ID": "727670310695294",
+    "EM01_NAME": "Pro Loco di Bergamasco",
+    "EM01_PICTURE": "https://scontent.xx.fbcdn.net/v/t1.0-1/c11.0.50.50/p50x50/10457912_727672390695086_4263056870174702632_n.jpg?oh=389ab618922a2d16aa0e796a18499776&oe=58591C0E",
+    "EM02_IDEVENT": "1731795803753211",
+    "EM02_NAME": "Un' Amatriciana per Amatrice",
+    "EM02_DESCRIPTION": "La Pro Loco di Bergamasco organizza una cena di solidarietà a favore delle popolazioni terremotate.\n\nMenù fisso a 10 euro (bevande escluse):\n- Tomini e salame\n- Spaghetti all'Amatriciana\n- Dolce e frutta\n\nPRENOTARSI ENTRO VENERDI' ALLE ORE 13 presso i seguenti contatti telefonici:\nAlice --> 339/6053771\nGiulia --> 347/8603680",
     "EM02_START_TIME": "2016-09-02T20:00:00",
     "EM02_END_TIME": "2016-09-02T23:00:00",
-    "EM02_PLACE_NAME": "Usb Pisa",
-    "EM02_PLACE_LOCATION_CITY": "Pisa",
+    "EM02_PLACE_NAME": "Bergamasco - Piazza della Repubblica",
+    "EM02_PLACE_LOCATION_CITY": "Bergamasco",
+    "EM02_PLACE_LOCATION_COUNTRY": null,
+    "EM02_PLACE_LOCATION_LATITUDE": "44.8277225",
+    "EM02_PLACE_LOCATION_LONGITUDE": "8.4546188",
+    "EM02_PLACE_LOCATION_ZIP": "15022",
+    "EM02_PLACE_LOCATION_STREET": "Posizione approssimata"
+  },
+  {
+    "EM01_ID": "498482466967767",
+    "EM01_NAME": "Pro Loco Quattordio",
+    "EM01_PICTURE": "https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/13442344_627025567446789_7444908161664683190_n.jpg?oh=d007e12ccb7a6efdf608834eb7b2cdc1&oe=584CDC2E",
+    "EM02_IDEVENT": "1776306742638565",
+    "EM02_NAME": "AMATRICIANA PER AMATRICE",
+    "EM02_DESCRIPTION": "A PARTIRE DALLE ORE 20:00 LA PRO LOCO DI QUATTORDIO SERVIRÀ I CELEBRI \"BUCATINI ALL'AMATRICIANA\" PER CONTRIBUIRE ALLA RACCOLTA FONDI DESTINATA ALLE POPOLAZIONI TERREMOTATE.\nL'INTERO INCASSO SARÀ DEVOLUTO A FAVORE DEL PROGETTO DI \"SPECCHIO DEI TEMPI\"\n(Per maggiori informazioni consultare il sito: http://www3.lastampa.it/specchio-dei-tempi/)\n\nL'evento si terrà, come di consueto, nel cortile del Palazzo Comunale (o nei locali dello stesso in caso di maltempo)",
+    "EM02_START_TIME": "2016-09-02T20:00:00",
+    "EM02_END_TIME": "2016-09-02T20:00:00",
+    "EM02_PLACE_NAME": "Comune di Quattordio",
+    "EM02_PLACE_LOCATION_CITY": "Quattordio",
     "EM02_PLACE_LOCATION_COUNTRY": "Italy",
-    "EM02_PLACE_LOCATION_LATITUDE": "43.7144699",
-    "EM02_PLACE_LOCATION_LONGITUDE": "10.4147797",
-    "EM02_PLACE_LOCATION_ZIP": "56124",
-    "EM02_PLACE_LOCATION_STREET": "Via Baldo degli Ubaldi"
+    "EM02_PLACE_LOCATION_LATITUDE": "44.898697798886",
+    "EM02_PLACE_LOCATION_LONGITUDE": "8.4060270619786",
+    "EM02_PLACE_LOCATION_ZIP": "15028",
+    "EM02_PLACE_LOCATION_STREET": "Via Civalieri, 13"
   },
   {
     "EM01_ID": "1497746123801927",
@@ -339,6 +339,23 @@
     "EM02_PLACE_LOCATION_LONGITUDE": "10.006036620866",
     "EM02_PLACE_LOCATION_ZIP": "25040",
     "EM02_PLACE_LOCATION_STREET": "via Seradina 9"
+  },
+  {
+    "EM01_ID": "579126515547201",
+    "EM01_NAME": "Usb Pisa",
+    "EM01_PICTURE": "https://scontent.xx.fbcdn.net/v/t1.0-1/c6.0.50.50/p50x50/10689983_579126642213855_6610189285572246020_n.jpg?oh=57dc9fd2dd23e0d4e8da495e981e69c2&oe=58544C44",
+    "EM02_IDEVENT": "1577890322507242",
+    "EM02_NAME": "Una amatriciana per i terremotati. Raccolta fondi USB Pisa in risposta all'appello di Rieti e Ascoli",
+    "EM02_DESCRIPTION": "LA FEDERAZIONE PISANA DELLA USB RISPONDE ALL’APPELLO DELLE LE FEDERAZIONI DI RIETI E ASCOLI, IMPEGNATE NEL REPERIRE ALLOGGI PER CHI E’ IN DIFFICOLTÀ.\n\nVENERDI 2 SETTEMBRE ALLE ORE 20 PRESSO IL CIRCOLO AGORA' DI PISA\nVIA BOVIO 48, PISA\n“UN PIATTO DI AMATRICIANA PER I TERREMOTATI DEL CENTRO ITALIA”\n\nSarà richiesto un contributo minimo di 8 euro, compreso un bicchiere di vino e acqua.\nÈ importante la prenotazione, per evitare uno spreco di risorse. \nTelefonare a: 050979390 – 050500442 – 3383614966 - \n\nTUTTI I FONDI RICAVATI DALLA SERATA SARANNO VERSATI SULL’IBAN DELLA\n USB CONFEDERAZIONE RIETI: IT42B0312714600000000001316\nIL versamento DELL’INCASSO SARA’ PUBBLICIZZATO NEI GIORNI SEGUENTI\n\nLe zone colpite dal terremoto di questi giorni sono da sempre riconosciute come ad alto rischio sismico. Meno risaputa è invece la storia delle tante battaglie sociali e sindacali che sono state condotte nella Comunità Montana del Velino e nelle zone dei Comuni di Amatrice, Poste, Borbona, Accumoli ecc. perché venissero assunti lavoratori proprio nella cura dell’ambiente e nella protezione e prevenzione di quegli abitati dalle conseguenze di nuovi e drammatici terremoti. La nostra organizzazione è stata protagonista di importanti battaglie per il sostegno e lo sviluppo di quelle comunità ed oggi possiamo dire, amaramente, che era già tutto maledettamente previsto. Ma al di là della rabbia per l’incuria ed il disinteresse della autorità per la salvaguardia del territorio, oggi ci sentiamo vicini alle tante vittime e alle loro famiglie anche ed ancor più perché con tanti e tante di loro abbiamo condiviso importanti battaglie sociali. Per questo chiamiamo a tutti i nostri iscritti e simpatizzanti, a tutte le persone di collaborare e solidarizzare, partecipando alle iniziative promosse in tutta Italia. Nei prossimi giorni, superata la fase più drammatica dei soccorsi, una delegazione dell’USB nazionale insieme alle federazioni di Rieti e di Ascoli si recherà nelle zone colpite per incontrarsi con i lavoratori e gli abitanti e valutare assieme le necessità abitative e le possibili ripercussioni occupazionali della tragedia e decidere assieme anche come utilizzare al meglio i fondi raccolti.\n\nUSB Unione Sindacale di Base - Federazione di Pisa  \nVia Baldo degli Ubaldi, 3 pisa@usb.it  www.usb.it\nTEL. 050979390 – CELL. 3461898646",
+    "EM02_START_TIME": "2016-09-02T20:00:00",
+    "EM02_END_TIME": "2016-09-02T23:00:00",
+    "EM02_PLACE_NAME": "Usb Pisa",
+    "EM02_PLACE_LOCATION_CITY": "Pisa",
+    "EM02_PLACE_LOCATION_COUNTRY": "Italy",
+    "EM02_PLACE_LOCATION_LATITUDE": "43.7144699",
+    "EM02_PLACE_LOCATION_LONGITUDE": "10.4147797",
+    "EM02_PLACE_LOCATION_ZIP": "56124",
+    "EM02_PLACE_LOCATION_STREET": "Via Baldo degli Ubaldi"
   },
   {
     "EM01_ID": "918388888176188",
@@ -460,6 +477,40 @@
     "EM02_PLACE_LOCATION_STREET": null
   },
   {
+    "EM01_ID": "1471768376463889",
+    "EM01_NAME": "Asd The Black Sheep Mtb",
+    "EM01_PICTURE": "https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/12417599_1510867215887338_8682312251666367847_n.jpg?oh=54b47f778db21b77bf50b8de7aecd3b3&oe=583B53F5",
+    "EM02_IDEVENT": "173994119693958",
+    "EM02_NAME": "DUE RUOTE PER RICOMINCIARE",
+    "EM02_DESCRIPTION": "Sabato 3/9/2016 dalle ore 17:00 presso la piazza centrale di Monterubbiano ( vicino al Comune ) , ci sarà una lezione di bici per i bambini , gioco , tecnica ed educazione stradale , solitamente queste lezioni sono a pagamento , invece questa volta sarà ad \" OFFERTA LIBERA \" il ricavato della lezione più le varie offerte che perverranno durante la lezione saranno devolute in beneficenza per i bambini del sisma che ha interessato la zona di Arquata del Tronto,  Pescara del Tronto , Accumoli ed Amatrice",
+    "EM02_START_TIME": "2016-09-03T17:30:00",
+    "EM02_END_TIME": "2016-09-03T19:30:00",
+    "EM02_PLACE_NAME": "Monterubbiano",
+    "EM02_PLACE_LOCATION_CITY": "Monterubbiano",
+    "EM02_PLACE_LOCATION_COUNTRY": "Italy",
+    "EM02_PLACE_LOCATION_LATITUDE": "43.0833",
+    "EM02_PLACE_LOCATION_LONGITUDE": "13.7167",
+    "EM02_PLACE_LOCATION_ZIP": null,
+    "EM02_PLACE_LOCATION_STREET": null
+  },
+  {
+    "EM01_ID": "1675774002746572",
+    "EM01_NAME": "Associazione \"La Madonnina\" Campomarino",
+    "EM01_PICTURE": "https://scontent.xx.fbcdn.net/v/t1.0-1/c1.0.50.50/p50x50/14034776_1675778042746168_876660425941721950_n.jpg?oh=4023224b4d5b8730188876310d63f03d&oe=583DC362",
+    "EM02_IDEVENT": "1172528796152736",
+    "EM02_NAME": "L' AMATRICIANA PER AMATRICE",
+    "EM02_DESCRIPTION": "L'ASSOCIAZIONE \"LA MADONNINA\" & A.N.L.C. ASS. NAZ. LIBERA CACCIA ORGANIZZA PER IL GIORNO 3 SETTEMBRE DALLE ORE 18:00 \"L'AMATRICIANA PER AMATRICE\".\nPRESSO IL LARGO SANTA MARIA A MARE, CON STAND GASTRONOMICI PER RACCOGLIERE FONDI PER LE POPOLAZIONI COLPITE DRASTICAMENTE DAL TERREMOTO DEL CENTRO ITALIA.\n\nL'INTERO RICAVATO SARÀ DEVOLUTO A QUESTE POPOLAZIONI.",
+    "EM02_START_TIME": "2016-09-03T18:00:00",
+    "EM02_END_TIME": "2016-09-03T18:00:00",
+    "EM02_PLACE_NAME": "Campomarino",
+    "EM02_PLACE_LOCATION_CITY": "Campomarino",
+    "EM02_PLACE_LOCATION_COUNTRY": "Italy",
+    "EM02_PLACE_LOCATION_LATITUDE": "41.95",
+    "EM02_PLACE_LOCATION_LONGITUDE": "15.0333",
+    "EM02_PLACE_LOCATION_ZIP": null,
+    "EM02_PLACE_LOCATION_STREET": null
+  },
+  {
     "EM01_ID": "385109411660925",
     "EM01_NAME": "Vitis Vinifera Project",
     "EM01_PICTURE": "https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/12928373_553898678115330_7401618749707319428_n.jpg?oh=b322b9f8c552adeba824c9d644601c67&oe=5840F5D2",
@@ -494,6 +545,23 @@
     "EM02_PLACE_LOCATION_STREET": null
   },
   {
+    "EM01_ID": "1464494773848512",
+    "EM01_NAME": "Pro Loco Tavigliano",
+    "EM01_PICTURE": "https://scontent.xx.fbcdn.net/v/t1.0-1/c8.0.50.50/p50x50/11666026_1464495477181775_7373388427830957211_n.jpg?oh=5aeb915d615ca220acbf1e190b6d72fe&oe=584FD869",
+    "EM02_IDEVENT": "967335290055230",
+    "EM02_NAME": "Mangia per Amatrice",
+    "EM02_DESCRIPTION": "La Pro Loco di Tavigliano invita tutti a mangiare in compagnia una pastasciutta di solidarietà per i terremotati!\nVi aspettiamo Sabato 3 Settembre presso il Salone Polivalente di Tavigliano, a partire dalle ore 19:30: verrà servito il piatto che ha reso famosa #Amatrice, la pasta all'amatriciana .... un piccolo gesto, ma grande solidarietà per le persone colpite dal sisma.\nIl ricavato sarà interamente devoluto in beneficenza!\nVenite numerosi! :-)",
+    "EM02_START_TIME": "2016-09-03T19:30:00",
+    "EM02_END_TIME": "2016-09-04T00:00:00",
+    "EM02_PLACE_NAME": "Salone Polivalente di Tavigliano",
+    "EM02_PLACE_LOCATION_CITY": "Tavigliano",
+    "EM02_PLACE_LOCATION_COUNTRY": null,
+    "EM02_PLACE_LOCATION_LATITUDE": "45.6248046",
+    "EM02_PLACE_LOCATION_LONGITUDE": "8.053192",
+    "EM02_PLACE_LOCATION_ZIP": null,
+    "EM02_PLACE_LOCATION_STREET": "Posizione approssimata"
+  },
+  {
     "EM01_ID": "100372338284",
     "EM01_NAME": "Associazione Culturale \"La Perzica\"",
     "EM01_PICTURE": "https://scontent.xx.fbcdn.net/v/t1.0-1/c37.33.417.417/s50x50/179905_10150941848598285_849948361_n.jpg?oh=252c45361096184fb281e8d8594b3adf&oe=5856520B",
@@ -526,6 +594,23 @@
     "EM02_PLACE_LOCATION_LONGITUDE": "13.215447664261",
     "EM02_PLACE_LOCATION_ZIP": "60019",
     "EM02_PLACE_LOCATION_STREET": "Via Cavallotti 14"
+  },
+  {
+    "EM01_ID": "177020668981421",
+    "EM01_NAME": "Casa degli alfieri",
+    "EM01_PICTURE": "https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/13770460_1410050825678393_178445363430417398_n.jpg?oh=e7a8410a95637ce6c22ce16146dacb68&oe=583FBA69",
+    "EM02_IDEVENT": "1860620547499478",
+    "EM02_NAME": "Cunte'munfra': sab 3 settembre \"Allegro cantabile\" a Montemagno (AT)",
+    "EM02_DESCRIPTION": "MONTEMAGNO (AT) – Piazza San Martino\nSabato 3 settembre ore 21\nFABER TEATER presenta\nALLEGRO CANTABILE\ncon Francesco Micca, Lodovico Bordignon, Lucia Giordano, Marco Andorno, Paola Bordignon, Sebastiano Amadio\ndirezione musicale di Antonella Talamonti\nregia e drammaturgia Aldo Pasquero e Giuseppe Morrone\n\n“Buonasera. Questa sera cantiamo solo. Se riusciamo.” Così comincia Cantata per... con un messaggio affidato alla proiezione di parole scritte.\nDa anni come gruppo, “giochiamo” e sperimentiamo con la voce, con il canto e i repertori dall'Italia e dal mondo. La ricerca sull'attore musicale, possiamo dire, è cuore del nostro percorso artistico degli ultimi 10 anni.\nIn Cantata i messaggi scritti, come missive silenziose, e le voci cantate “parlano” al pubblico e lo accompagnano in un ironico itinerario attraverso il suono, il ritmo, il timbro. Sei voci sulla scena si fanno guide di questa traversata, sei attori-musicisti che non solo cantano, ma diventano interpreti di un repertorio trasversale, in cui trovano spazio ballate, canti di lavoro, serenate.\nPiano visivo e uditivo si mescolano in un gioco di cui poco alla volta gli spettatori diventano complici. E così è possibile “vedere” la polifonia e “ascoltare” il movimento.\nUn ascolto che si evolve e che si ritrova a diventare attivo, il pubblico si scopre musicista all'interno di un'orchestra, suono necessario tra i suoni e creatore di musica lui stesso. Musica capace di veicolare emozioni, che racconta storie nascoste tra le note, che evoca universi sonori, che guida un'esperienza senza salire in cattedra.\nFino a diventare canto veramente collettivo, un'unica orchestra alla fine, con gioia e leggerezza.\nE se arriva l'applauso, beh anche questo è un evento sonoro. Anche questo è musica.\n\nyoutube:\n https://www.youtube.com/watch?v=qlMD8UJFY78\n\nINGRESSO LIBERO - durante la rassegna verranno raccolte offerte a favore di Amatrice e delle popolazioni colpite dal terremoto nel Centro Italia\ninfo: 339 2532921 luciano.nattino@casadeglialfieri.it     \nfb casa.degli.alfieri\nwww.casadegliafieri.it \n\n#cuntemunfra2016\n------------------------------\n\nCUNTE' MUNFRA' è il racconto del Monferrato e, insieme, del mondo, di fatiche e speranze, di respiri e ansie: storie di sempre, storie sempre nuove, inattese.\nCUNTÉ MUNFRÀ giunge alla quindicesima edizione e si dà radici in una terra benevola dai larghi fianchi, dalle morbide curve, che accoglie in quiete viaggiatori e stanziali, santi e saltimbanchi, curiosi e incantati.\nCUNTE' MUNFRA' è per l’uomo della complessità che vuole appaesarsi, che cerca un luogo dove continuare a interrogarsi. Camminatore di domande.\n\nCUNTE' MUNFRA' - dal Monferrato al mondo\nteatro musica incontri laboratori della memoria\nXV edizione - 3 settembre / 3 dicembre 2016\nDirezione Artistica di Luciano Nattino e Massimo Barbero\n\nCUNTE' MUNFRA' è promosso da\nUnione Colli Divini - nel cuore del Monferrato \ncasa degli alfieri /Archivio della Memoria Astigiana \n\ncon il sostegno di \nRegione Piemonte\nFondazione CRT\n\nin collaborazione con la rivista Astigiani\ne Monferrato delle Culture\nnell'ambito del Progetto Terre d'Asti Festival",
+    "EM02_START_TIME": "2016-09-03T21:00:00",
+    "EM02_END_TIME": "2016-09-04T00:00:00",
+    "EM02_PLACE_NAME": "Montemagno",
+    "EM02_PLACE_LOCATION_CITY": "Montemagno",
+    "EM02_PLACE_LOCATION_COUNTRY": "Italy",
+    "EM02_PLACE_LOCATION_LATITUDE": "44.9833",
+    "EM02_PLACE_LOCATION_LONGITUDE": "8.33333",
+    "EM02_PLACE_LOCATION_ZIP": null,
+    "EM02_PLACE_LOCATION_STREET": null
   },
   {
     "EM01_ID": "1478956752332917",
@@ -596,6 +681,23 @@
     "EM02_PLACE_LOCATION_STREET": "Via padana superiore 6"
   },
   {
+    "EM01_ID": "427604317338337",
+    "EM01_NAME": "Pro-loco Terventum",
+    "EM01_PICTURE": "https://scontent.xx.fbcdn.net/v/t1.0-1/c4.0.50.50/p50x50/523447_455601361205299_1924595537_n.jpg?oh=94a491c1c6bb6c62fd28f3bd46387d72&oe=5846EF42",
+    "EM02_IDEVENT": "1449577451735935",
+    "EM02_NAME": "Un'amatriciana per Amatrice",
+    "EM02_DESCRIPTION": "Iniziativa benefica per la raccolta fondi da devolvere alle popolazioni interessate dal recente terremoto. \nDomenica 4 Settembre, in Piazza Fontana, con un contributo minimo di 5 Euro, sarà possibile acquistare un piatto di spaghetti all'amatriciana e l'incasso della giornata sarà interamente devoluto alle popolazioni interessate dal recente terremoto. \nNon far mancare il tuo sostegno, ti aspettiamo!",
+    "EM02_START_TIME": "2016-09-04T12:00:00",
+    "EM02_END_TIME": "2016-09-04T15:00:00",
+    "EM02_PLACE_NAME": "Piazza Fontana Trivento",
+    "EM02_PLACE_LOCATION_CITY": "Trivento",
+    "EM02_PLACE_LOCATION_COUNTRY": "Italy",
+    "EM02_PLACE_LOCATION_LATITUDE": "41.781259",
+    "EM02_PLACE_LOCATION_LONGITUDE": "14.55190631",
+    "EM02_PLACE_LOCATION_ZIP": "86029",
+    "EM02_PLACE_LOCATION_STREET": null
+  },
+  {
     "EM01_ID": "951286671551143",
     "EM01_NAME": "Associaz Pro Cupramontana",
     "EM01_PICTURE": "https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/12814197_1143005179045957_8582239090817815744_n.jpg?oh=41c1dd7aa6384d98f114db684d98cf8b&oe=583A2682",
@@ -611,6 +713,23 @@
     "EM02_PLACE_LOCATION_LONGITUDE": "13.11621551",
     "EM02_PLACE_LOCATION_ZIP": "60034",
     "EM02_PLACE_LOCATION_STREET": "Via Nazario Sauro"
+  },
+  {
+    "EM01_ID": "295556604170143",
+    "EM01_NAME": "Ass. Il mago di Oz Onlus",
+    "EM01_PICTURE": "https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/14117774_295580754167728_3307274987414546727_n.jpg?oh=8ab91fffe14c309341a3f17b2e96d88b&oe=5844539C",
+    "EM02_IDEVENT": "323324464673486",
+    "EM02_NAME": "Terremoto Centro Italia - Il sostegno dei bambini ai bambini",
+    "EM02_DESCRIPTION": "Cari tutti, noi dell'Ass. Il mago di Oz Onlus (centro di riabilitazione dell'età evolutiva di Roma-Infernetto) in questi giorni ci siamo interrogati su quale potesse essere il nostro aiuto concreto alle famiglie e ai bambini sopravvissuti alla tragedia del terremoto. Abbiamo realizzato questa inziativa in collaborazione con Save The Children con tutto il cuore e la buona volontà. L'obiettivo è quello di raccogliere fondi ma anche di sensibilizzare i bambini, spiegando l'accaduto e stimolando il senso di solidarietà verso il prossimo in difficoltà. Vi chiediamo di diffondere il più possibile l'iniziativa tramite WA, Facebook, sms, email. L'iniziativa, che è rivolta alle famiglie e ai loro bambini, ovviamente accoglie anche adulti che vogliono dare il proprio contributo.\n\nL’emergenza continua nel Centro Italia, e adesso c’è bisogno soprattutto di fondi per ricostruire una città e per sostenere le famiglie e i bambini colpiti da questa tragedia. L’Ass. Il mago di Oz ha organizzato un pomeriggio di laboratori dedicati ai bambini. I laboratori saranno tutti divertenti e creativi ma ci sarà anche uno spazio dedicato alla sensibilizzazione dei bambini e dei ragazzi guidato dalle nostre psicologhe, con l’obiettivo di accompagnarli nel percorso di costruzione di un senso di solidarietà verso il prossimo in difficoltà. I bambini inoltre se vorranno potranno creare un filo diretto con i bambini terremotati, facendo un disegno o scrivendo una lettera ai loro coetanei.\nCome avverrà la donazione: ci sarà una quota simbolica di 5 euro a bambino per accedere a tutti i laboratori e per tutto il pomeriggio, inoltre verrà effettuata una pesca di giocattoli, ci sarà il banchetto delle torte e il salvadanaio dei bambini in cui ogni bimbo potrà, se vorrà, partecipare personalmente alla donazione mettendo un soldino dei propri risparmi.\nLa donazione sarà interamente devoluta a Save the Children a sostegno del progetto “Spazio a Misura di Bambino ad Amatrice”",
+    "EM02_START_TIME": "2016-09-04T17:00:00",
+    "EM02_END_TIME": "2016-09-04T21:00:00",
+    "EM02_PLACE_NAME": "Ass. Il mago di Oz Onlus",
+    "EM02_PLACE_LOCATION_CITY": "Rome",
+    "EM02_PLACE_LOCATION_COUNTRY": "Italy",
+    "EM02_PLACE_LOCATION_LATITUDE": "41.7439512",
+    "EM02_PLACE_LOCATION_LONGITUDE": "12.3603365",
+    "EM02_PLACE_LOCATION_ZIP": "00124",
+    "EM02_PLACE_LOCATION_STREET": "Via Cesare Pascucci 63"
   },
   {
     "EM01_ID": "209279189207200",
@@ -630,23 +749,6 @@
     "EM02_PLACE_LOCATION_STREET": "P.zza Plebiscito, 1"
   },
   {
-    "EM01_ID": "10210731475910880",
-    "EM01_NAME": "Giorgio Cùscito",
-    "EM01_PICTURE": "https://scontent.xx.fbcdn.net/v/t1.0-1/c68.22.545.545/s50x50/14100438_10210643397268969_4883500594951354705_n.jpg?oh=dc826d2d6b2361190bc7fa3bbe719d3f&oe=58841424",
-    "EM02_IDEVENT": "1462663283751234",
-    "EM02_NAME": "Lo SWING italiano per Amatrice e per L'Aquila - Domenica 4 Settembre 2016",
-    "EM02_DESCRIPTION": "Attenzione: l'organizzazione del Jazz Italiano Per L'Aquila - dopo lunghe consultazioni e tanti ripensamenti, e dopo aver sentito tanti pareri - sembra aver deciso per una grande attività solidale su tutto il territorio nazionale. È previsto anche un concerto a l'Aquila per la sera di DOMENICA 4 SETTEMBRE, in diretta televisiva RAI. L'originario progetto di una festa swing per la sera del sabato è stato purtroppo accantonato, per forza di cose e per ovvi motivi. Ma il gruppo aquilano dei Crazy Stompin' Club sarà presente al concerto del 4 settembre a rappresentare il mondo dello swing, e a dar voce e immagine a una scena viva e vitale che non può e non deve rabbuiarsi di nuovo! Piji e io andremo a sostenerli e a suonare con loro, spero vivamente nella presenza e collaborazione di tutti, amici, appassionati e lindyhoppers compresi.\n\nA presto con nuovi aggiornamenti !\n\nIscrivetevi anche all'evento ufficiale di ItaliaJazz: https://www.facebook.com/events/1398003776882957/",
-    "EM02_START_TIME": "2016-09-04T21:00:00",
-    "EM02_END_TIME": "2016-09-05T01:00:00",
-    "EM02_PLACE_NAME": "Santa Maria di Collemaggio",
-    "EM02_PLACE_LOCATION_CITY": "L'Aquila",
-    "EM02_PLACE_LOCATION_COUNTRY": "Italy",
-    "EM02_PLACE_LOCATION_LATITUDE": "42.342797222222",
-    "EM02_PLACE_LOCATION_LONGITUDE": "13.40465",
-    "EM02_PLACE_LOCATION_ZIP": "67100",
-    "EM02_PLACE_LOCATION_STREET": "Viale di Collemaggio"
-  },
-  {
     "EM01_ID": "667128556723734",
     "EM01_NAME": "ItaliaJazz",
     "EM01_PICTURE": "https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/11227506_669089679860955_2506299615663407777_n.png?oh=2a4ad7ba4d32f3565061b31bfcb57b03&oe=5857EDAD",
@@ -662,6 +764,23 @@
     "EM02_PLACE_LOCATION_LONGITUDE": "13.3667",
     "EM02_PLACE_LOCATION_ZIP": null,
     "EM02_PLACE_LOCATION_STREET": null
+  },
+  {
+    "EM01_ID": "10210731475910880",
+    "EM01_NAME": "Giorgio Cùscito",
+    "EM01_PICTURE": "https://scontent.xx.fbcdn.net/v/t1.0-1/c68.22.545.545/s50x50/14100438_10210643397268969_4883500594951354705_n.jpg?oh=dc826d2d6b2361190bc7fa3bbe719d3f&oe=58841424",
+    "EM02_IDEVENT": "1462663283751234",
+    "EM02_NAME": "Lo SWING italiano per Amatrice e per L'Aquila - Domenica 4 Settembre 2016",
+    "EM02_DESCRIPTION": "Attenzione: l'organizzazione del Jazz Italiano Per L'Aquila - dopo lunghe consultazioni e tanti ripensamenti, e dopo aver sentito tanti pareri - sembra aver deciso per una grande attività solidale su tutto il territorio nazionale. È previsto anche un concerto a l'Aquila per la sera di DOMENICA 4 SETTEMBRE, in diretta televisiva RAI. L'originario progetto di una festa swing per la sera del sabato è stato purtroppo accantonato, per forza di cose e per ovvi motivi. Ma il gruppo aquilano dei Crazy Stompin' Club sarà presente al concerto del 4 settembre a rappresentare il mondo dello swing, e a dar voce e immagine a una scena viva e vitale che non può e non deve rabbuiarsi di nuovo! Piji e io andremo a sostenerli e a suonare con loro, spero vivamente nella presenza e collaborazione di tutti, amici, appassionati e lindyhoppers compresi.\n\nA presto con nuovi aggiornamenti !\n\nIscrivetevi anche all'evento ufficiale di ItaliaJazz: https://www.facebook.com/events/1398003776882957/",
+    "EM02_START_TIME": "2016-09-04T21:00:00",
+    "EM02_END_TIME": "2016-09-05T01:00:00",
+    "EM02_PLACE_NAME": "Santa Maria di Collemaggio",
+    "EM02_PLACE_LOCATION_CITY": "L'Aquila",
+    "EM02_PLACE_LOCATION_COUNTRY": "Italy",
+    "EM02_PLACE_LOCATION_LATITUDE": "42.342797222222",
+    "EM02_PLACE_LOCATION_LONGITUDE": "13.40465",
+    "EM02_PLACE_LOCATION_ZIP": "67100",
+    "EM02_PLACE_LOCATION_STREET": "Viale di Collemaggio"
   },
   {
     "EM01_ID": "376599135693185",
