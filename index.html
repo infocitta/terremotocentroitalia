@@ -1,0 +1,107 @@
+﻿<!DOCTYPE html>
+
+<html data-ng-app="angularApplication">
+<head>
+<title>Eventi per Amatrice</title>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/3.2.0/sandstone/bootstrap.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
+<link href="angular.panels.min.css" rel="stylesheet" type="text/css">
+
+<script src="https://maps.google.com/maps/api/js?libraries=placeses,visualization,drawing,geometry,places&key=AIzaSyDMQX5Qu93BAwKBvSqO-pzUGMcIpWghu_o"></script>
+<script src="https://code.angularjs.org/1.3.15/angular.min.js"></script>
+<script src="ng-map.min.js"></script>
+<script src="angular.panels.min.js"></script>
+<style>
+  ng-map {
+  position:absolute;
+  width: 100%;
+  height: 100%;
+}
+.modal {
+  display: block;
+  z-index: -1;
+}
+.modal.fade.in {
+  z-index: 1050;
+}
+</style>
+</head>
+
+<body data-ng-controller="defaultController">
+  <ng-map   map-type-control="false" default-style="false" zoom="6" center="42.856307, 12.438867" >
+	<marker position="current" animation="Animation.BOUNCE" title="Tua posizione" icon="{url:'man.png'}"></marker>
+
+
+    <marker ng-repeat="p in pois" 
+      position="{{p.EM02_PLACE_LOCATION_LATITUDE}},{{p.EM02_PLACE_LOCATION_LONGITUDE}}" title="{{p.EM02_NAME}}"  id="POI_{{$index}}"  on-click="leftOpen(event,p)"     
+      >
+    </marker>
+  
+	<custom-control id="by" position="BOTTOM_LEFT" index="1">
+		<div style="padding: 10px;">Created by Paolo Fisco @ipersoft</div>
+	</custom-control> 	
+  </ng-map>
+
+	<div data-panels="true"></div>
+
+	<script>
+
+		var app = angular.module('angularApplication', ['angular.panels','ngMap']);
+
+		//add panels
+		app.config(['panelsProvider','$windowProvider', function (panelsProvider,$windowProvider) {
+		var $window = $windowProvider.$get();
+		var sizePanel="";
+		if ($window.innerWidth<400) {
+			sizePanel="80%"
+		}
+		else
+		{
+			sizePanel="400px"
+		}
+		
+			panelsProvider
+		        .add({
+		            id: 'panel',
+		            position: 'left',
+		            size:sizePanel,
+		            templateUrl: 'https://raw.githubusercontent.com/infocitta/terremotocentroitalia/master/panel.html',
+		            controller: 'leftCtrl'
+		        })
+		        ;
+		}]);
+
+		//default controller
+		app.controller('defaultController', ['$scope', 'panels','NgMap','$http','$window', function ($scope, panels,NgMap,$http,$window) {
+
+		NgMap.getMap().then(function(map) {
+			$scope.map = map;
+		});
+$http.get("https://raw.githubusercontent.com/infocitta/terremotocentroitalia/master/eventi.json")
+    .then(function(response) {
+        $scope.pois = response.data;
+    });	
+	
+	
+			$scope.leftOpen = function (event,poi) {
+				$scope.$broadcast('leftHello',poi);
+			};
+		}]);
+
+		//left panel controller
+		app.controller('leftCtrl', ['$scope', 'panels', function ($scope, panels) {
+
+			$scope.$on('leftHello', function(event, poi) {
+				$scope.selectedPOI = poi;
+				
+				panels.open("panel");
+			});
+	
+		}]);
+
+
+
+	</script>
+</body>
+</html>
