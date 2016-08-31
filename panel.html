@@ -8,13 +8,14 @@
 	<small>{{selectedPOI.EM02_DESCRIPTION}}</small>
 	<p>Dal {{selectedPOI.EM02_START_TIME}} </p>
 	<p>Al {{selectedPOI.EM02_END_TIME}} </p>
-	< br/>
-	<p>{{selectedPOI.EM02_PLACE_LOCATION_STREET}} < br/>
+	 <br />
+	<p>{{selectedPOI.EM02_PLACE_LOCATION_STREET}}  <br />
 	{{selectedPOI.EM02_PLACE_LOCATION_CITY}}
 	</p>
 	<div>
 	<a ng-href="https://www.google.com/maps?q={{selectedPOI.EM02_PLACE_LOCATION_LATITUDE}},{{selectedPOI.EM02_PLACE_LOCATION_LONGITUDE}}" class="btn btn-primary btn-sm" role="button">Posizione</a>
 	<a ng-href="https://www.google.com/maps/dir/Current+Location/{{selectedPOI.EM02_PLACE_LOCATION_LATITUDE}},{{selectedPOI.EM02_PLACE_LOCATION_LONGITUDE}}" class="btn btn-primary btn-sm" role="button">Indicazioni</a>
+	<a ng-href="https://www.facebook.com/{{selectedPOI.EM02_IDEVENT}}" class="btn btn-primary btn-sm" role="button">Evento su FB</a>
 	</div>
 	<div>
 		<button type="button" class="close" data-ng-click="panels.close();">Chiudi</button>
