@@ -37,7 +37,11 @@
       position="{{p.EM02_PLACE_LOCATION_LATITUDE}},{{p.EM02_PLACE_LOCATION_LONGITUDE}}" title="{{p.EM02_NAME}}"  id="POI_{{$index}}"  on-click="leftOpen(event,p)"     
       >
     </marker>
-  
+	<custom-control id="title" position="TOP_LEFT" index="1">
+	<div style="padding: 10px;">
+		<h3><b>Eventi per Amatrice</b></h3>
+	</div>
+	</custom-control>   
 	<custom-control id="by" position="BOTTOM_LEFT" index="1">
 		<div style="padding: 10px;">Created by Paolo Fisco @ipersoft</div>
 	</custom-control> 	
